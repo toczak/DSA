@@ -1,13 +1,13 @@
-### The programs performs the following actions from the menu:
+## The programs performs the following actions from the menu:
 
-## Exercise 1:
+### Exercise 1:
 1. Add an element to the end of the list
 2. Remove the first element with the selected surname from list
 3. Remove all elements with the selected surname from list
 4. Print all elements of list
 5. Edit choosen element from list
 
-## Exercise 2:
+### Exercise 2:
 1. Add an element to the end of the list
 2. Remove first element with selected key value from list
 3. Remove all element with selected key value from list
